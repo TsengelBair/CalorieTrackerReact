@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/CalorieTrackerReact/static/css/main.0027e11e.css",
+    "main.js": "/CalorieTrackerReact/static/js/main.42f95cbc.js",
+    "static/media/logo.svg": "/CalorieTrackerReact/static/media/logo.40172b72fd4ca38e86fddebdca486906.svg",
+    "index.html": "/CalorieTrackerReact/index.html",
+    "main.0027e11e.css.map": "/CalorieTrackerReact/static/css/main.0027e11e.css.map",
+    "main.42f95cbc.js.map": "/CalorieTrackerReact/static/js/main.42f95cbc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0027e11e.css",
+    "static/js/main.42f95cbc.js"
+  ]
+}
