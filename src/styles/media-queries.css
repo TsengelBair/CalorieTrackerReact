@@ -1,0 +1,321 @@
+@media (max-width: 1200px) {
+  .main_img {
+    max-width: 100%;
+  }
+}
+
+@media (max-width: 1000px) {
+  .button_female {
+    padding: 19px 52px;
+    position: absolute;
+    left: 286px;
+  }
+
+  .calculator_inner {
+    position: relative;
+    max-width: 859px;
+    margin: 0 auto;
+  }
+
+  .form_container {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 111px;
+    position: relative;
+  }
+}
+
+@media (max-width: 800px) {
+  .calculator_inner {
+    position: relative;
+    max-width: 689px;
+    margin: 0 auto;
+  }
+
+  .form_container {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 79px;
+    position: relative;
+  }
+
+  .button_female {
+    padding: 19px 52px;
+    position: absolute;
+    left: 254px;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+  }
+
+  .result {
+    margin-right: 76px;
+    border-radius: 25px;
+    margin-top: 50px;
+    height: 150px;
+  }
+
+  .result_block_title {
+    font-size: 18px;
+  }
+
+  #maintainWeightResult {
+    font-size: 18px;
+  }
+
+  #gainWeightResult {
+    font-size: 18px;
+  }
+
+  #loseWeightResult {
+    font-size: 18px;
+  }
+}
+
+@media (max-width: 710px) {
+  span {
+    font-size: 16px;
+  }
+}
+
+@media (max-width: 635px) {
+  span {
+    font-size: 14px;
+  }
+}
+
+@media (max-width: 600px) {
+  .calculator_inner {
+    position: relative;
+    max-width: 532px;
+  }
+
+  .form_container {
+    padding-left: 50px;
+    position: relative;
+  }
+
+  .button_male {
+    padding: 14px 57px;
+  }
+
+  .button_female {
+    padding: 14px 40px;
+    position: absolute;
+    left: 209px;
+  }
+
+  .result {
+    margin-right: 50px;
+  }
+
+  .result_block_title {
+    font-size: 15px;
+  }
+
+  .result_block + .result_block {
+    padding-left: 30px;
+  }
+
+  #maintainWeightResult {
+    font-size: 15px;
+  }
+
+  #gainWeightResult {
+    font-size: 15px;
+  }
+
+  #loseWeightResult {
+    font-size: 15px;
+  }
+}
+
+@media (max-width: 650px) {
+  .result {
+    margin-right: 44px;
+  }
+}
+
+@media (max-width: 500px) {
+  .result_block + .result_block {
+    padding-left: 16px;
+  }
+
+  #maintainWeightResult {
+    font-size: 13px;
+  }
+
+  #gainWeightResult {
+    font-size: 13px;
+  }
+
+  #loseWeightResult {
+    font-size: 13px;
+  }
+}
+
+@media (max-width: 470px) {
+  span {
+    font-size: 12px;
+  }
+}
+
+@media (max-width: 450px) {
+  .main_inner {
+    padding-top: 60px;
+  }
+
+  .main_text_1 {
+    padding-top: 40px;
+  }
+
+  .main_text_2 {
+    padding-top: 5px;
+  }
+
+  .main_text {
+    font-size: 16px;
+  }
+
+  .calculator_inner_title {
+    font-size: 26px;
+
+    padding-bottom: 20px;
+  }
+
+  .button_male {
+    padding: 11px 44px;
+  }
+
+  .button_female {
+    padding: 11px 31px;
+    position: absolute;
+    left: 183px;
+  }
+
+  .calculator_inner_headline {
+    font-size: 26px;
+    line-height: 39px;
+    font-weight: 700;
+  }
+
+  .calculator_inner_elem_subtitle {
+    font-size: 14px;
+  }
+
+  .calculator_inner_activity {
+    padding-top: 40px;
+  }
+
+  .switcher_item + .switcher_item {
+    padding-top: 20px;
+  }
+
+  .form_buttons {
+    padding-top: 40px;
+  }
+
+  .form_button {
+    padding: 10px 15px;
+  }
+
+  .form_button_2 {
+    padding: 10px 38px;
+    margin-left: 3px;
+  }
+
+  .result_title {
+    font-size: 15px;
+  }
+
+  .result_blocks {
+    padding-top: 10px;
+    padding-left: 22px;
+  }
+
+  #maintainWeightResult {
+    font-size: 13px;
+  }
+
+  #gainWeightResult {
+    font-size: 13px;
+  }
+
+  #loseWeightResult {
+    font-size: 13px;
+  }
+
+  .result_block + .result_block {
+    padding-left: 11px;
+  }
+
+  .result_block_title {
+    font-size: 13px;
+  }
+
+  .info_text {
+    font-size: 16px;
+  }
+}
+
+@media (max-width: 430px) {
+  .result_title {
+    padding-left: 15px;
+  }
+
+  .result_blocks {
+    padding-top: 5px;
+    padding-left: 15px;
+  }
+}
+
+@media (max-width: 430px) {
+  #maintainWeightResult {
+    font-size: 11px;
+  }
+
+  #gainWeightResult {
+    font-size: 11px;
+  }
+
+  #loseWeightResult {
+    font-size: 11px;
+  }
+}
+
+@media (max-width: 430px) {
+  #maintainWeightResult {
+    font-size: 10px;
+  }
+
+  #gainWeightResult {
+    font-size: 10px;
+  }
+
+  #loseWeightResult {
+    font-size: 10px;
+  }
+
+  .result_title {
+    font-size: 13px;
+  }
+
+  .result {
+    margin-right: 33px;
+  }
+
+  .result_block_title {
+    font-size: 11px;
+  }
+}
+
+@media (max-width: 400px) {
+  span {
+    font-size: 10px;
+  }
+}
+
+@media (max-width: 360px) {
+  .main_img {
+    max-width: 100%;
+  }
+}

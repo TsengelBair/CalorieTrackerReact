@@ -1,0 +1,22 @@
+.info {
+  padding-bottom: 50px;
+}
+
+.info_inner {
+  text-align: center;
+}
+
+.info_text {
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 24px;
+  color: #010101;
+}
+
+.info_text_1 {
+  padding-top: 20px;
+}
+
+.info_text_2 {
+  padding-top: 10px;
+}
